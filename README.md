@@ -1,7 +1,7 @@
 # Simple Task Management System — Assignments 1, 3, and 4
 
 ## Assignment 1 — Spring Boot CRUD
-- Location: `demo-spring/`
+- Location: `demo/`
 - Features:
   - RESTful API for Task entity
   - CRUD operations: GET, POST, PUT, DELETE
